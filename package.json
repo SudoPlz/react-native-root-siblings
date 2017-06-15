@@ -9,7 +9,7 @@
     "main": "./lib/SiblingsManager",
     "description": "react native root sibling elements manager",
     "dependencies": {
-        "static-container": "^1.0.0"
+        "static-container": "SudoPlz/StaticContainer"
     },
     "keywords": [
         "react-component",
